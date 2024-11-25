@@ -149,15 +149,15 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/Cup_thermal.jpg" alt="Dimsum Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Cup_msx.jpg" alt="Dimsum MSX" width="160px" height="120px"></td>
                 <td>123(train) 18(test)</td>
-                <td class="temperature">17.0°C - 36.6°C</td>
+                <td class="temperature">17.0°C- 36.6°C</td>
             </tr>
             <tr>
-                <td><strong>\Transmission Tower</strong></td>
+                <td><strong>Transmission Tower</strong></td>
                 <td><img src="dataset/Tower_rgb.jpg" alt="Daily Stuff RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/Tower_thermal.jpg" alt="Daily Stuff Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Tower_msx.jpg" alt="Daily Stuff MSX" width="160px" height="120px"></td>
                 <td>154(train) 23(test)</td>
-                <td class="temperature">23.7°C - 26.4°C</td>
+                <td class="temperature">23.7°C- 26.4°C</td>
             </tr>
             <tr>
                 <td><strong>Dark Scene</strong></td>
@@ -165,7 +165,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/Dark_thermal.jpg" alt="Electric Bicycle Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Dark_msx.jpg" alt="Electric Bicycle MSX" width="160px" height="120px"></td>
                 <td>75(train) 11(test)</td>
-                <td class="temperature">17.5°C - 21.6°C</td>
+                <td class="temperature">17.5°C- 21.6°C</td>
             </tr>
             <tr>
                 <td><strong>Plant Equipment</strong></td>
@@ -173,7 +173,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/Plant_thermal.jpg" alt="Roadblock Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Plant_msx.jpg" alt="Roadblock MSX" width="160px" height="120px"></td>
                 <td>192(train) 28(test)</td>
-                <td class="temperature">27.8°C - 54.9°C</td>
+                <td class="temperature">27.8°C- 54.9°C</td>
             </tr>
         </tbody>
 </table>
