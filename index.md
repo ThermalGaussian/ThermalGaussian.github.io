@@ -1,6 +1,6 @@
 ## THERMALGAUSSIAN :THERMAL 3D GAUSSIAN SPLATTING
 
-![alt text](NaturalDubber.png)
+![alt text](pipline.png)
 
 
 ## Abstract
