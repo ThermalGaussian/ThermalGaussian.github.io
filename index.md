@@ -122,6 +122,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
 
 
 ### RGBT-Scenes-extend-Dataset
+The following are the four scenes extended by RGBT-Scenes.
 <table>
         <colgroup>
                 <col style="width: 12%;">
