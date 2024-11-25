@@ -181,7 +181,7 @@ The following are the four scenes extended by RGBT-Scenes.
 
 
 ### Dynamic scene demo
-We also provide a demo of two  dynamic scenes for our upcoming work to progress.
+We also provide four dynamic scenes demos for our upcoming work to progress.
 
 <div class="container" style="display: flex; justify-content: center; gap: 20px;">
     <img src="dataset/hotwaterbag_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
@@ -191,6 +191,15 @@ We also provide a demo of two  dynamic scenes for our upcoming work to progress.
     <img src="dataset/pouroutwater_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
     <img src="dataset/pouroutwater_thermal.gif" alt="Thermal GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
 </div>
+<div class="container" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="dataset/beef_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+    <img src="dataset/beef_thermal.gif" alt="Thermal GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+</div>
+<div class="container" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="dataset/refengqiang_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+    <img src="dataset/refengqiang_thermal.gif" alt="Thermal GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+</div>
+
 
 
 ### Comparisons
