@@ -121,55 +121,61 @@ The following 10 scenes were selected for both qualitative and quantitative anal
 
 
 
-### Sample #2
-#### Script: This is very serious.
-<table border="1">
-    <tr>
-        <td>
-<video width="320" height="140" controls>
-  <source src="Setting1\sample2\StyleSpeech.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption>StyleSpeech</figcaption>
-        </td>
-        <td>
-<video width="320" height="140" controls>
-  <source src="Setting1\sample2\Zeroshot_TTS.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption>Zeroshot-TTS</figcaption>
-        </td>
-        <td>
-<video width="320" height="140" controls>
-  <source src="Setting1\sample2\V2C-Net.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption>V2C-Net</figcaption>
-        </td>
-    </tr>
-    <tr>
-        <td>
-<video width="320" height="140" controls>
-  <source src="Setting1\sample2\HPMdubbing.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption>HPMDubbing</figcaption>
-        </td>
-        <td>
-<video width="320" height="140" controls>
-  <source src="Setting1\sample2\Ours.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption>Ours</figcaption>
-        </td>
-        <td>
-<video width="320" height="140" controls>
-  <source src="Setting1\sample2\Setting1Sample2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption>GT</figcaption>
-        </td>
-    </tr>
+### RGBT-Scenes-extend-Dataset
+<table>
+        <colgroup>
+                <col style="width: 12%;">
+                <col style="width: 22%;">
+                <col style="width: 22%;">
+                <col style="width: 22%;">
+                <col style="width: 10%;"> 
+                <col style="width: 12%;"> 
+        </colgroup>
+        <caption>Each scene in the expanded RGBT-Scenes dataset is displayed</caption>
+        <thead>
+            <tr>
+                <th>Scene</th>
+                <th>RGB</th>
+                <th>Thermal</th>
+                <th>MSX</th>
+                <th>Views</th>
+                <th class="temperature">Temp. Range</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Glass Cup</strong></td>
+                <td><img src="dataset/Cup_rgb.jpg" alt="Dimsum RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Cup_thermal.jpg" alt="Dimsum Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Cup_msx.jpg" alt="Dimsum MSX" width="160px" height="120px"></td>
+                <td>123(train) 18(test)</td>
+                <td class="temperature">17.0°C - 36.6°C</td>
+            </tr>
+            <tr>
+                <td><strong>\Transmission Tower</strong></td>
+                <td><img src="dataset/Tower_rgb.jpg" alt="Daily Stuff RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Tower_thermal.jpg" alt="Daily Stuff Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Tower_msx.jpg" alt="Daily Stuff MSX" width="160px" height="120px"></td>
+                <td>154(train) 23(test)</td>
+                <td class="temperature">23.7°C - 26.4°C</td>
+            </tr>
+            <tr>
+                <td><strong>Dark Scene</strong></td>
+                <td><img src="dataset/Dark_rgb.jpg" alt="Electric Bicycle RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Dark_thermal.jpg" alt="Electric Bicycle Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Dark_msx.jpg" alt="Electric Bicycle MSX" width="160px" height="120px"></td>
+                <td>75(train) 11(test)</td>
+                <td class="temperature">17.5°C - 21.6°C</td>
+            </tr>
+            <tr>
+                <td><strong>Plant Equipment</strong></td>
+                <td><img src="dataset/Plant_rgb.jpg" alt="Roadblock RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Plant_thermal.jpg" alt="Roadblock Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Plant_msx.jpg" alt="Roadblock MSX" width="160px" height="120px"></td>
+                <td>192(train) 28(test)</td>
+                <td class="temperature">27.8°C - 54.9°C</td>
+            </tr>
+        </tbody>
 </table>
 
 
