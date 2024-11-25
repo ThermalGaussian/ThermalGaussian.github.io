@@ -1,4 +1,4 @@
-## From Speaker to Dubber: Movie Dubbing with Prosody and Duration Consistency Learning
+## THERMALGAUSSIAN: THERMAL 3D GAUSSIAN SPLATTING
 
 ![alt text](NaturalDubber.png)
 
