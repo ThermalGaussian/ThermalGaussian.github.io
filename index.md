@@ -209,11 +209,13 @@ To verify the validity of our multimodal regularization term, we show multimodal
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <figure style="text-align: center;">
-        <img src="dynamic_loss.png" alt="dynamic_loss" style="width: 500px; height: auto;">
+        <img src="dynamic_loss.png" alt="dynamic_loss" style="max-width: 100%; height: auto;">
         <figcaption style="margin-top: 8px;">(a) MR (γ) vs. Fixed coefficient</figcaption>
     </figure>
+</div>
+<div>
     <figure style="text-align: center;">
-        <img src="Point_all.png" alt="point number" style="width: 1000px; height: auto;">
+        <img src="Point_all.png" alt="point number" style="max-width: 100%; height: auto;">
         <figcaption style="margin-top: 8px;">(b)Gaussian distributions. Left: 3DGS; Right: Ours(MSMG)+MR</figcaption>
     </figure>
 </div>
