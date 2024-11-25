@@ -13,104 +13,101 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
 
 
 ### RGBT-Scenes Dataset
-
-        <table>
-                <caption>Each scene in the RGBT-Scenes dataset is displayed</caption>
-                <thead>
-                    <tr>
-                        <th>Scene</th>
-                        <th>RGB</th>
-                        <th>Thermal</th>
-                        <th>MSX</th>
-                        <th>Views</th>
-                        <th class="temperature">Temp. Range</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td><strong>Dimsum</strong></td>
-                        <td><img src="dataset/dimsum_rgb.jpg" alt="Dimsum RGB"></td>
-                        <td><img src="dataset/dimsum_thermal.jpg" alt="Dimsum Thermal"></td>
-                        <td><img src="dataset/dimsum_msx.jpg" alt="Dimsum MSX"></td>
-                        <td>135(train) 19(test)</td>
-                        <td class="temperature">23.1°C - 60.0°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Daily Stuff</strong></td>
-                        <td><img src="dataset/DailyStuff_rgb.jpg" alt="Daily Stuff RGB"></td>
-                        <td><img src="dataset/DailyStuff_thermal.jpg" alt="Daily Stuff Thermal"></td>
-                        <td><img src="dataset/DailyStuff_msx.jpg" alt="Daily Stuff MSX"></td>
-                        <td>78(train) 11(test)</td>
-                        <td class="temperature">17.5°C - 56.3°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Electric Bicycle</strong></td>
-                        <td><img src="dataset/electromobile_rgb.jpg" alt="Electric Bicycle RGB"></td>
-                        <td><img src="dataset/electromobile_thermal.jpg" alt="Electric Bicycle Thermal"></td>
-                        <td><img src="dataset/electromobile_msx.jpg" alt="Electric Bicycle MSX"></td>
-                        <td>42(train) 6(test)</td>
-                        <td class="temperature">14.5°C - 18.5°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Roadblock</strong></td>
-                        <td><img src="dataset/roadblock_rgb.jpg" alt="Roadblock RGB"></td>
-                        <td><img src="dataset/roadblock_thermal.jpg" alt="Roadblock Thermal"></td>
-                        <td><img src="dataset/roadblock_msx.jpg" alt="Roadblock MSX"></td>
-                        <td>32(train) 4(test)</td>
-                        <td class="temperature">31.0°C - 43.0°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Truck</strong></td>
-                        <td><img src="dataset/residue_truck_rgb.jpg" alt="Truck RGB"></td>
-                        <td><img src="dataset/residue_truck_thermal.jpg" alt="Truck Thermal"></td>
-                        <td><img src="dataset/residue_truck_msx.jpg" alt="Truck MSX"></td>
-                        <td>64(train) 9(test)</td>
-                        <td class="temperature">30.6°C - 249.0°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Rotary Kiln</strong></td>
-                        <td><img src="dataset/Rotary_Kiln_rgb.jpg" alt="Rotary Kiln RGB"></td>
-                        <td><img src="dataset/Rotary_Kiln_thermal.jpg" alt="Rotary Kiln Thermal"></td>
-                        <td><img src="dataset/Rotary_Kiln_msx.jpg" alt="Rotary Kiln MSX"></td>
-                        <td>93(train) 13(test)</td>
-                        <td class="temperature">5.0°C - 60.4°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Building</strong></td>
-                        <td><img src="dataset/building_rgb.jpg" alt="Building RGB"></td>
-                        <td><img src="dataset/building_thermal.jpg" alt="Building Thermal"></td>
-                        <td><img src="dataset/building_msx.jpg" alt="Building MSX"></td>
-                        <td>239(train) 34(test)</td>
-                        <td class="temperature">15.0°C - 24.0°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Iron ingot</strong></td>
-                        <td><img src="dataset/iron_ingot_rgb.jpg" alt="Iron ingot RGB"></td>
-                        <td><img src="dataset/iron_ingot_thermal.jpg" alt="Iron ingot Thermal"></td>
-                        <td><img src="dataset/iron_ingot_msx.jpg" alt="Iron ingot MSX"></td>
-                        <td>54(train) 7(test)</td>
-                        <td class="temperature">38.0°C - 350.0°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Parterre</strong></td>
-                        <td><img src="dataset/Parterre_msx.jpg" alt="Parterre RGB"></td>
-                        <td><img src="dataset/Parterre_thermal.jpg" alt="Parterre Thermal"></td>
-                        <td><img src="dataset/Parterre_msx.jpg" alt="Parterre MSX"></td>
-                        <td>63(train) 9(test)</td>
-                        <td class="temperature">18.0°C - 27.0°C</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Landscape</strong></td>
-                        <td><img src="dataset/landscape_rgb.jpg" alt="Landscape RGB"></td>
-                        <td><img src="dataset/landscape_thermal.jpg" alt="Landscape Thermal"></td>
-                        <td><img src="dataset/landscape_msx.jpg" alt="Landscape MSX"></td>
-                        <td>90(train) 13(test)</td>
-                        <td class="temperature">16.0°C - 23.0°C</td>
-                    </tr>
-                </tbody>
-            </table>
-
-
+<table>
+        <caption>Each scene in the RGBT-Scenes dataset is displayed</caption>
+        <thead>
+            <tr>
+                <th>Scene</th>
+                <th>RGB</th>
+                <th>Thermal</th>
+                <th>MSX</th>
+                <th>Views</th>
+                <th class="temperature">Temp. Range</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Dimsum</strong></td>
+                <td><img src="dataset/dimsum_rgb.jpg" alt="Dimsum RGB" width="320" height="240"></td>
+                <td><img src="dataset/dimsum_thermal.jpg" alt="Dimsum Thermal" width="320" height="240"></td>
+                <td><img src="dataset/dimsum_msx.jpg" alt="Dimsum MSX" width="320" height="240"></td>
+                <td>135(train) 19(test)</td>
+                <td class="temperature">23.1°C - 60.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Daily Stuff</strong></td>
+                <td><img src="dataset/DailyStuff_rgb.jpg" alt="Daily Stuff RGB"></td>
+                <td><img src="dataset/DailyStuff_thermal.jpg" alt="Daily Stuff Thermal"></td>
+                <td><img src="dataset/DailyStuff_msx.jpg" alt="Daily Stuff MSX"></td>
+                <td>78(train) 11(test)</td>
+                <td class="temperature">17.5°C - 56.3°C</td>
+            </tr>
+            <tr>
+                <td><strong>Electric Bicycle</strong></td>
+                <td><img src="dataset/electromobile_rgb.jpg" alt="Electric Bicycle RGB"></td>
+                <td><img src="dataset/electromobile_thermal.jpg" alt="Electric Bicycle Thermal"></td>
+                <td><img src="dataset/electromobile_msx.jpg" alt="Electric Bicycle MSX"></td>
+                <td>42(train) 6(test)</td>
+                <td class="temperature">14.5°C - 18.5°C</td>
+            </tr>
+            <tr>
+                <td><strong>Roadblock</strong></td>
+                <td><img src="dataset/roadblock_rgb.jpg" alt="Roadblock RGB"></td>
+                <td><img src="dataset/roadblock_thermal.jpg" alt="Roadblock Thermal"></td>
+                <td><img src="dataset/roadblock_msx.jpg" alt="Roadblock MSX"></td>
+                <td>32(train) 4(test)</td>
+                <td class="temperature">31.0°C - 43.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Truck</strong></td>
+                <td><img src="dataset/residue_truck_rgb.jpg" alt="Truck RGB"></td>
+                <td><img src="dataset/residue_truck_thermal.jpg" alt="Truck Thermal"></td>
+                <td><img src="dataset/residue_truck_msx.jpg" alt="Truck MSX"></td>
+                <td>64(train) 9(test)</td>
+                <td class="temperature">30.6°C - 249.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Rotary Kiln</strong></td>
+                <td><img src="dataset/Rotary_Kiln_rgb.jpg" alt="Rotary Kiln RGB"></td>
+                <td><img src="dataset/Rotary_Kiln_thermal.jpg" alt="Rotary Kiln Thermal"></td>
+                <td><img src="dataset/Rotary_Kiln_msx.jpg" alt="Rotary Kiln MSX"></td>
+                <td>93(train) 13(test)</td>
+                <td class="temperature">5.0°C - 60.4°C</td>
+            </tr>
+            <tr>
+                <td><strong>Building</strong></td>
+                <td><img src="dataset/building_rgb.jpg" alt="Building RGB"></td>
+                <td><img src="dataset/building_thermal.jpg" alt="Building Thermal"></td>
+                <td><img src="dataset/building_msx.jpg" alt="Building MSX"></td>
+                <td>239(train) 34(test)</td>
+                <td class="temperature">15.0°C - 24.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Iron ingot</strong></td>
+                <td><img src="dataset/iron_ingot_rgb.jpg" alt="Iron ingot RGB"></td>
+                <td><img src="dataset/iron_ingot_thermal.jpg" alt="Iron ingot Thermal"></td>
+                <td><img src="dataset/iron_ingot_msx.jpg" alt="Iron ingot MSX"></td>
+                <td>54(train) 7(test)</td>
+                <td class="temperature">38.0°C - 350.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Parterre</strong></td>
+                <td><img src="dataset/Parterre_msx.jpg" alt="Parterre RGB"></td>
+                <td><img src="dataset/Parterre_thermal.jpg" alt="Parterre Thermal"></td>
+                <td><img src="dataset/Parterre_msx.jpg" alt="Parterre MSX"></td>
+                <td>63(train) 9(test)</td>
+                <td class="temperature">18.0°C - 27.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Landscape</strong></td>
+                <td><img src="dataset/landscape_rgb.jpg" alt="Landscape RGB"></td>
+                <td><img src="dataset/landscape_thermal.jpg" alt="Landscape Thermal"></td>
+                <td><img src="dataset/landscape_msx.jpg" alt="Landscape MSX"></td>
+                <td>90(train) 13(test)</td>
+                <td class="temperature">16.0°C - 23.0°C</td>
+            </tr>
+        </tbody>
+    
 <a id="Setting1V2C"></a>
 
 ### V2C-Animation sample on Dub 1.0
