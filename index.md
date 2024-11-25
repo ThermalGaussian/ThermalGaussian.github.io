@@ -192,3 +192,7 @@ We also provide a demo of two  dynamic scenes for our subsequent work to progres
     <img src="dataset/pouroutwater_thermal.gif" alt="Thermal GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
 </div>
 
+
+###Comparisons
+We present qualitative thermal image comparisons between our method, previous approaches (3DGS and ThermoBerf) , and the corresponding ground truth images from
+test views. We also show the training results of the MSX images, which are easier to apply.
