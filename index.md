@@ -13,37 +13,7 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
 
 
 ### RGBT-Scenes Dataset
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RGBT-Scenes Dataset</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            background-color: #f4f4f4;
-            font-weight: bold;
-        }
-        img {
-            width: 320px; 
-            height: 240px; 
-            object-fit: cover; 
-            border: 1px solid #ddd; 
-        }
-        .temperature {
-            white-space: nowrap;
-        }
-    </style>
-</head>
-<body>
+
         <table>
                 <caption>Each scene in the RGBT-Scenes dataset is displayed</caption>
                 <thead>
@@ -139,7 +109,6 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
                     </tr>
                 </tbody>
             </table>
-</body>
 
 
 <a id="Setting1V2C"></a>
