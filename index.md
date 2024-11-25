@@ -28,17 +28,17 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
         <tbody>
             <tr>
                 <td><strong>Dimsum</strong></td>
-                <td><img src="dataset/dimsum_rgb.jpg" alt="Dimsum RGB" width="320" height="240"></td>
-                <td><img src="dataset/dimsum_thermal.jpg" alt="Dimsum Thermal" width="320" height="240"></td>
-                <td><img src="dataset/dimsum_msx.jpg" alt="Dimsum MSX" width="320" height="240"></td>
+                <td><img src="dataset/dimsum_rgb.jpg" alt="Dimsum RGB" width="160" height="120"></td>
+                <td><img src="dataset/dimsum_thermal.jpg" alt="Dimsum Thermal" width="160" height="120"></td>
+                <td><img src="dataset/dimsum_msx.jpg" alt="Dimsum MSX" width="160" height="120"></td>
                 <td>135(train) 19(test)</td>
                 <td class="temperature">23.1°C - 60.0°C</td>
             </tr>
             <tr>
                 <td><strong>Daily Stuff</strong></td>
-                <td><img src="dataset/DailyStuff_rgb.jpg" alt="Daily Stuff RGB"></td>
-                <td><img src="dataset/DailyStuff_thermal.jpg" alt="Daily Stuff Thermal"></td>
-                <td><img src="dataset/DailyStuff_msx.jpg" alt="Daily Stuff MSX"></td>
+                <td><img src="dataset/DailyStuff_rgb.jpg" alt="Daily Stuff RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/DailyStuff_thermal.jpg" alt="Daily Stuff Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/DailyStuff_msx.jpg" alt="Daily Stuff MSX" width="160px" height="120px"></td>
                 <td>78(train) 11(test)</td>
                 <td class="temperature">17.5°C - 56.3°C</td>
             </tr>
