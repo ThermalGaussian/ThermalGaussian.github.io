@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
 title: ThermalGaussian
-description: The official examples of article "THERMALGAUSSIAN: THERMAL 3D GAUSSIAN SPLATTING"
+description: The official examples of article "THERMALGAUSSIAN : THERMAL 3D GAUSSIAN SPLATTING"
 github:
   is_project_page: false
 
