@@ -13,6 +13,7 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
 
 
 ### RGBT-Scenes Dataset
+The following 10 scenes were selected for both qualitative and quantitative analysis in our paper.
 <table>
         <caption>Each scene in the RGBT-Scenes dataset is displayed</caption>
         <thead>
