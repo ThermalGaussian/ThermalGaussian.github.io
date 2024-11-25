@@ -1,4 +1,4 @@
-## THERMALGAUSSIAN :THERMAL 3D GAUSSIAN SPLATTING
+## ThermalGaussian : Thermal 3D Gaussian Splatting
 
 ![alt text](pipline.png)
 
@@ -181,7 +181,7 @@ The following are the four scenes extended by RGBT-Scenes.
 
 
 ### Dynamic scene demo
-We also provide a demo of two  dynamic scenes for our subsequent work to progress.
+We also provide a demo of two  dynamic scenes for our upcoming work to progress.
 
 <div class="container" style="display: flex; justify-content: center; gap: 20px;">
     <img src="dataset/hotwaterbag_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
