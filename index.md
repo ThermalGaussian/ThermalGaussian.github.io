@@ -194,5 +194,14 @@ We also provide a demo of two  dynamic scenes for our subsequent work to progres
 
 
 ### Comparisons
-We present qualitative thermal image comparisons between our method, previous approaches (3DGS and ThermoBerf) , and the corresponding ground truth images from
+We present qualitative thermal image comparisons between our method, previous approaches (3DGS and ThermoNerf) , and the corresponding ground truth images from
 test views. We also show the training results of the MSX images, which are easier to apply.
+<div class="container" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="comparison1.png" alt="thermal comparison" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+</div>
+
+We present qualitative RGB image comparisons between our method and 3DGS from test views.
+<div class="container" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="comparison2.png" alt="rgb comparison" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+</div>
+
