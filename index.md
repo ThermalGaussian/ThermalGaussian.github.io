@@ -194,8 +194,7 @@ We also provide a demo of two  dynamic scenes for our subsequent work to progres
 
 
 ### Comparisons
-We present qualitative thermal image comparisons between our method, previous approaches (3DGS and ThermoNerf) , and the corresponding ground truth images from
-test views. We also show the training results of the MSX images, which are easier to apply.
+We present qualitative thermal image comparisons between our method, previous approaches (3DGS and ThermoNerf) , and the corresponding ground truth images from test views. We also show the training results of the MSX images, which are easier to apply.
 <div class="container" style="display: flex; justify-content: center; gap: 20px;">
     <img src="comparison1.png" alt="thermal comparison" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px;">
 </div>
@@ -205,3 +204,5 @@ We present qualitative RGB image comparisons between our method and 3DGS from te
     <img src="comparison2.png" alt="rgb comparison" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px;">
 </div>
 
+
+To verify the validity of our multimodal regularization term, we show multimodal regularization γ with manual adjustment of the thermal constraint coefficient in a truck scenario. The comparison shows that our multimodal regularization method reduces the storage space of RGB and thermal modes while maintaining high image quality. At the same time, we also intuitively give the Gaussian distribution of the original 3DGS method and our multimodal regularization method.
