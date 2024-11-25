@@ -205,7 +205,7 @@ We present qualitative RGB image comparisons between our method and 3DGS from te
 </div>
 
 
-To verify the effectiveness of our multimodal regularization term, we show multimodal regularization γ with manual adjustment of the thermal constraint coefficient in a truck scenario. The comparison shows that our multimodal regularization method reduces the storage space of RGB and thermal modes while maintaining high image quality. At the same time, we also intuitively give the Gaussian distribution of the original 3DGS method and our multimodal regularization method.
+To verify the effectiveness of our multimodal regularization term, we compare our multimodal regularization γ with manual adjustment of the thermal constraint coefficient in a truck scene. The comparison shows that our multimodal regularization approach reduces the storage space of RGB and thermal modalities while maintaining high image quality. At the same time, we visually present the Gaussian distributions of the original 3DGS method and our method with multimodal regularization.
 
 <div style="text-align: center; margin-bottom: 20px;">
     <figure style="display: inline-block; margin: 0 20px;">
