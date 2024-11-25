@@ -33,10 +33,10 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
             font-weight: bold;
         }
         img {
-            width: 150px; /* 统一宽度 */
-            height: 150px; /* 统一高度 */
-            object-fit: cover; /* 保持比例并裁剪多余部分 */
-            border: 1px solid #ddd; /* 添加边框 */
+            width: 320px; 
+            height: 240px; 
+            object-fit: cover; 
+            border: 1px solid #ddd; 
         }
         .temperature {
             white-space: nowrap;
