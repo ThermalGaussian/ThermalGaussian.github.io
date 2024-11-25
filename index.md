@@ -76,9 +76,9 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
             </tr>
             <tr>
                 <td><strong>Building</strong></td>
-                <td><img src="dataset/building_rgb.png" alt="Building RGB"></td>
-                <td><img src="dataset/building_thermal.png" alt="Building Thermal"></td>
-                <td><img src="dataset/building_msx.png" alt="Building MSX"></td>
+                <td><img src="dataset/building_rgb.jpg" alt="Building RGB"></td>
+                <td><img src="dataset/building_thermal.jpg" alt="Building Thermal"></td>
+                <td><img src="dataset/building_msx.jpg" alt="Building MSX"></td>
                 <td>239(train) 34(test)</td>
                 <td class="temperature">15.0°C - 24.0°C</td>
             </tr>
