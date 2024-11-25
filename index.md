@@ -184,7 +184,11 @@ The following are the four scenes extended by RGBT-Scenes.
 We also provide a demo of two  dynamic scenes for our subsequent work to progress.
 
 <div class="container" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="dataset/hotwaterbag_rgb.gif" alt="RGB GIF" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px;">
-    <img src="dataset/hotwaterbag_thermal.gif" alt="Thermal GIF" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+    <img src="dataset/hotwaterbag_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+    <img src="dataset/hotwaterbag_thermal.gif" alt="Thermal GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+</div>
+<div class="container" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="dataset/pouroutwater_rgb.gif" alt="RGB GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
+    <img src="dataset/pouroutwater_thermal.gif" alt="Thermal GIF" style="width: 320px; height: auto; border: 2px solid #ddd; border-radius: 8px;">
 </div>
 
