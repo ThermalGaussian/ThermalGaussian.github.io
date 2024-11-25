@@ -1,0 +1,7 @@
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: From Speaker to Dubber
+description: The official examples of article "From Speaker to Dubber :Movie Dubbing with Prosody and Duration Consistency Learning"
+github:
+  is_project_page: false
+
