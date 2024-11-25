@@ -207,14 +207,14 @@ We present qualitative RGB image comparisons between our method and 3DGS from te
 
 To verify the effectiveness of our multimodal regularization term, we show multimodal regularization γ with manual adjustment of the thermal constraint coefficient in a truck scenario. The comparison shows that our multimodal regularization method reduces the storage space of RGB and thermal modes while maintaining high image quality. At the same time, we also intuitively give the Gaussian distribution of the original 3DGS method and our multimodal regularization method.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <figure style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
+    <figure style="display: inline-block; margin: 0 20px;">
         <img src="dynamic_loss.png" alt="dynamic_loss" style="max-width: 100%; height: auto;">
         <figcaption style="margin-top: 8px;">(a) MR (γ) vs. Fixed coefficient</figcaption>
     </figure>
 </div>
-<div>
-    <figure style="text-align: center;">
+<div style="text-align: center;">
+    <figure style="display: inline-block; margin: 0 20px;">
         <img src="Point_all.png" alt="point number" style="max-width: 100%; height: auto;">
         <figcaption style="margin-top: 8px;">(b)Gaussian distributions. Left: 3DGS; Right: Ours(MSMG)+MR</figcaption>
     </figure>
