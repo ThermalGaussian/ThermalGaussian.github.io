@@ -107,6 +107,7 @@ named RGBT-Scenes, captured by a hand-hold thermal-infrared camera, facilitating
                 <td class="temperature">16.0°C - 23.0°C</td>
             </tr>
         </tbody>
+</table>
     
 
 
