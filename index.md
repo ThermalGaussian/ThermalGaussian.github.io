@@ -40,7 +40,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/dimsum_rgb.jpg" alt="Dimsum RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/dimsum_thermal.jpg" alt="Dimsum Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/dimsum_msx.jpg" alt="Dimsum MSX" width="160px" height="120px"></td>
-                <td>135(train) 19(test)</td>
+                <td>135(train) 20(test)</td>
                 <td class="temperature">23.1°C - 60.0°C</td>
             </tr>
             <tr>
@@ -48,7 +48,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/DailyStuff_rgb.jpg" alt="Daily Stuff RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/DailyStuff_thermal.jpg" alt="Daily Stuff Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/DailyStuff_msx.jpg" alt="Daily Stuff MSX" width="160px" height="120px"></td>
-                <td>78(train) 11(test)</td>
+                <td>68(train) 10(test)</td>
                 <td class="temperature">17.5°C - 56.3°C</td>
             </tr>
             <tr>
@@ -64,8 +64,8 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/roadblock_rgb.jpg" alt="Roadblock RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/roadblock_thermal.jpg" alt="Roadblock Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/roadblock_msx.jpg" alt="Roadblock MSX" width="160px" height="120px"></td>
-                <td>32(train) 4(test)</td>
-                <td class="temperature">31.0°C - 43.0°C</td>
+                <td>62(train) 9(test)</td>
+                <td class="temperature">22.0°C - 27.0°C</td>
             </tr>
             <tr>
                 <td><strong>Truck</strong></td>
@@ -80,7 +80,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/Rotary_Kiln_rgb.jpg" alt="Rotary Kiln RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/Rotary_Kiln_thermal.jpg" alt="Rotary Kiln Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Rotary_Kiln_msx.jpg" alt="Rotary Kiln MSX" width="160px" height="120px"></td>
-                <td>93(train) 13(test)</td>
+                <td>92(train) 14(test)</td>
                 <td class="temperature">5.0°C - 60.4°C</td>
             </tr>
             <tr>
@@ -88,7 +88,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/building_rgb.jpg" alt="Building RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/building_thermal.jpg" alt="Building Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/building_msx.jpg" alt="Building MSX" width="160px" height="120px"></td>
-                <td>239(train) 34(test)</td>
+                <td>238(train) 35(test)</td>
                 <td class="temperature">15.0°C - 24.0°C</td>
             </tr>
             <tr>
@@ -96,7 +96,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/iron_ingot_rgb.jpg" alt="Iron ingot RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/iron_ingot_thermal.jpg" alt="Iron ingot Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/iron_ingot_msx.jpg" alt="Iron ingot MSX" width="160px" height="120px"></td>
-                <td>54(train) 7(test)</td>
+                <td>53(train) 8(test)</td>
                 <td class="temperature">38.0°C - 350.0°C</td>
             </tr>
             <tr>
@@ -104,8 +104,8 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/Parterre_msx.jpg" alt="Parterre RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/Parterre_thermal.jpg" alt="Parterre Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Parterre_msx.jpg" alt="Parterre MSX" width="160px" height="120px"></td>
-                <td>63(train) 9(test)</td>
-                <td class="temperature">18.0°C - 27.0°C</td>
+                <td>57(train) 9(test)</td>
+                <td class="temperature">19.5°C - 27.5°C</td>
             </tr>
             <tr>
                 <td><strong>Landscape</strong></td>
