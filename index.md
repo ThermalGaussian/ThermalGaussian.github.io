@@ -40,7 +40,7 @@ The following 10 scenes were selected for both qualitative and quantitative anal
                 <td><img src="dataset/dimsum_rgb.jpg" alt="Dimsum RGB" width="160px" height="120px"></td>
                 <td><img src="dataset/dimsum_thermal.jpg" alt="Dimsum Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/dimsum_msx.jpg" alt="Dimsum MSX" width="160px" height="120px"></td>
-                <td>135(train) 20(test)</td>
+                <td>134(train) 20(test)</td>
                 <td class="temperature">23.1°C - 60.0°C</td>
             </tr>
             <tr>
