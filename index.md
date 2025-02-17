@@ -158,7 +158,7 @@ The following are the four scenes extended by RGBT-Scenes.
                 <td><img src="dataset/Tower_thermal.jpg" alt="Daily Stuff Thermal" width="160px" height="120px"></td>
                 <td><img src="dataset/Tower_msx.jpg" alt="Daily Stuff MSX" width="160px" height="120px"></td>
                 <td>154(train) 23(test)</td>
-                <td class="temperature">23.7°C- 26.4°C</td>
+                <td class="temperature">-26.4°C- 23.7°C</td>
             </tr>
             <tr>
                 <td><strong>Dark Scene</strong></td>
