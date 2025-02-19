@@ -1,8 +1,6 @@
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
 title: ThermalGaussian
-description: |
-  Rongfeng Lu1, Hangyu Chen, Zunjie Zhu, Yuhang Qin, Ming Lu, Le Zhang, Chenggang Yan, Anke Xue
-  Hangzhou Dianzi University ,Intel Labs China ,Lishui Institute of Hangzhou Dianzi University
+description: "Rongfeng Lu1, Hangyu Chen, Zunjie Zhu, Yuhang Qin, Ming Lu, Le Zhang, Chenggang Yan, Anke Xue<br>Hangzhou Dianzi University ,Intel Labs China ,Lishui Institute of Hangzhou Dianzi University"
   is_project_page: false
 
