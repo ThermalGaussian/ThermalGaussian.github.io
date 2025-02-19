@@ -1,7 +1,8 @@
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
 title: ThermalGaussian
-description: Rongfeng Lu1,3,∗,† Hangyu Chen1,∗ Zunjie Zhu1,3 Yuhang Qin1 Ming Lu2 Le Zhang1 Chenggang Yan 1 Anke Xue1,†
+description: Rongfeng Lu1, Hangyu Chen, Zunjie Zhu, Yuhang Qin, Ming Lu, Le Zhang, Chenggang Yan,  Anke Xue
+Hangzhou Dianzi University, Intel Labs China, Lishui Institute of Hangzhou Dianzi University
 github:
   is_project_page: false
 
