@@ -1,9 +1,13 @@
+
 ## ThermalGaussian : Thermal 3D Gaussian Splatting
 
-<div class="button-container">
-  <a href="https://arxiv.org/pdf/2409.07200" class="button">Paper</a>
-  <a href="https://arxiv.org/abs/2409.07200" class="button">arXiv</a>
-  <a href="https://github.com/chen-hangyu/Thermal-Gaussian-main.git" class="button">Code</a>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://arxiv.org/abs/2409.07200" style="display: inline-flex; align-items: center; text-decoration: none; color: #0000ff; font-size: 16px; font-weight: bold; transition: text-decoration 0.3s ease;">
+    <img src="paper.png" alt="Paper" style="width: 60px; height: 60px; object-fit: contain; margin-right: 10px;"> Paper
+  </a>
+  <a href="https://github.com/chen-hangyu/Thermal-Gaussian-main" style="display: inline-flex; align-items: center; text-decoration: none; color: #0000ff; font-size: 16px; font-weight: bold; transition: text-decoration 0.3s ease;">
+    <img src="github.png" alt="Code" style="width: 60px; height: 60px; object-fit: contain; margin-right: 10px;"> Code
+  </a>
 </div>
 
               
