@@ -1,14 +1,5 @@
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://arxiv.org/abs/2409.07200" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 16px; font-weight: bold; transition: text-decoration 0.3s ease;">
-    <img src="paper.png" alt="Paper" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 10px;"> Paper
-  </a>
-  <a href="https://github.com/chen-hangyu/Thermal-Gaussian-main" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 16px; font-weight: bold; transition: text-decoration 0.3s ease;">
-    <img src="github.png" alt="Code" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 10px;"> Code
-  </a>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; height: 120vh;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; height: 100vh;">
   <a href="https://arxiv.org/abs/2409.07200" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 18px; font-weight: bold; transition: text-decoration 0.3s ease;">
     <img src="paper.png" alt="Paper" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;"> Paper
   </a>
