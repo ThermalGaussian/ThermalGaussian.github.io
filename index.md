@@ -6,6 +6,9 @@
   <a href="https://github.com/chen-hangyu/Thermal-Gaussian-main" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 18px; font-weight: bold; transition: text-decoration 0.3s ease;">
     <img src="github.png" alt="Code" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;"> Code
   </a>
+  <a href="https://drive.google.com/drive/folders/1xuPwqezNW_LSB5C-H8TQFJ7nLoSS2BOg?usp=drive_link" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 18px; font-weight: bold; transition: text-decoration 0.3s ease;">
+    <img src="github.png" alt="Code" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;"> Dataset
+  </a>
 </div>
 
 
