@@ -1,5 +1,12 @@
 ## ThermalGaussian : Thermal 3D Gaussian Splatting
 
+<div class="button-container">
+  <a href="https://arxiv.org/pdf/2409.07200" class="button">Paper</a>
+  <a href="https://arxiv.org/abs/2409.07200" class="button">arXiv</a>
+  <a href="https://github.com/chen-hangyu/Thermal-Gaussian-main.git" class="button">Code</a>
+</div>
+
+              
 ![alt text](pipline.png)
 
 
