@@ -239,8 +239,7 @@ To verify the effectiveness of our multimodal regularization term, we compare ou
     </figure>
 </div>
 
-<div style="border: 1px solid #ccc; padding: 15px; border-radius: 5px; background-color: #f7f7f7; max-width: 800px; margin: auto;">
-  <h3>BibTeX</h3>
+### Citation
   <pre style="background-color: #f4f4f4; padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
 @article{lu2024thermalgaussian,
   title     = {ThermalGaussian: Thermal 3D Gaussian Splatting},
@@ -249,4 +248,4 @@ To verify the effectiveness of our multimodal regularization term, we compare ou
   year      = {2024},
 }
   </pre>
-</div>
+
