@@ -13,7 +13,7 @@
 
 
               
-![alt text](pipline.png)
+![alt text](pipeline.png)
 
 
 ## Abstract
