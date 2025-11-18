@@ -193,6 +193,81 @@ The following are the four scenes extended by RGBT-Scenes.
 </table>
 
 
+### Unaligned RGB–Thermal Dataset
+We also release a set of Unaligned RGB–Thermal Image Pairs which are provided exclusively for academic research purposes.These unaligned data are intended to facilitate studies on cross-modal alignment, multimodal registration, 3D reconstruction, and other related tasks that benefit from more challenging multimodal scenarios.
+<table>
+        <colgroup>
+                <col style="width: 12%;">
+                <col style="width: 22%;">
+                <col style="width: 22%;">
+                <col style="width: 22%;">
+                <col style="width: 10%;"> 
+                <col style="width: 12%;"> 
+        </colgroup>
+        <caption>Each scene in the Unaligned RGB–Thermal dataset is displayed</caption>
+        <thead>
+            <tr>
+                <th>Scene</th>
+                <th>RGB</th>
+                <th>Thermal</th>
+                <th>MSX</th>
+                <th>Views</th>
+                <th class="temperature">Temp. Range</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Computer</strong></td>
+                <td><img src="dataset/Computer_rgb.jpg" alt="Computer RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Computer_th.jpg" alt="Computer Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Computer_msx.jpg" alt="Computer MSX" width="160px" height="120px"></td>
+                <td>139</td>
+                <td class="temperature">18.0°C - 63.1°C</td>
+            </tr>
+            <tr>
+                <td><strong>Glass</strong></td>
+                <td><img src="dataset/GlassMsmg_rgb.jpg" alt="Glass RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/GlassMsmg_th.jpg" alt="Glass Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/GlassMsmg_msx.jpg" alt="Glass MSX" width="160px" height="120px"></td>
+                <td>223</td>
+                <td class="temperature">18.0°C - 60.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Hand Warmer</strong></td>
+                <td><img src="dataset/HandWarmer_rgb.jpg" alt="Hand Warmer RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/HandWarmer_th.jpg" alt="Hand Warmer Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/HandWarmer_msx.jpg" alt="Hand Warmer MSX" width="160px" height="120px"></td>
+                <td>154</td>
+                <td class="temperature">14.8°C - 130.2°C</td>
+            </tr>
+            <tr>
+                <td><strong>Human</strong></td>
+                <td><img src="dataset/HumanDimLight_rgb.jpg" alt="Human RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/HumanDimLight_th.jpg" alt="Human Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/HumanDimLight_msx.jpg" alt="Human MSX" width="160px" height="120px"></td>
+                <td>130</td>
+                <td class="temperature">5.0°C - 30.0°C</td>
+            </tr>
+            <tr>
+                <td><strong>Ice</strong></td>
+                <td><img src="dataset/Ice_rgb.jpg" alt="Ice RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Ice_th.jpg" alt="Ice Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Ice_msx.jpg" alt="Ice MSX" width="160px" height="120px"></td>
+                <td>183</td>
+                <td class="temperature">-4.0°C - 53.5°C</td>
+            </tr>
+            <tr>
+                <td><strong>Plastic</strong></td>
+                <td><img src="dataset/Plastic_rgb.jpg" alt="Plastic RGB" width="160px" height="120px"></td>
+                <td><img src="dataset/Plastic_th.jpg" alt="Plastic Thermal" width="160px" height="120px"></td>
+                <td><img src="dataset/Plastic_msx.jpg" alt="Plastic MSX" width="160px" height="120px"></td>
+                <td>121</td>
+                <td class="temperature">16.0°C - 48.0°C</td>
+            </tr>
+        </tbody>
+</table>
+
+
 ### Dynamic scene demo
 We also provide four dynamic scenes demos for our upcoming work to progress.
 
