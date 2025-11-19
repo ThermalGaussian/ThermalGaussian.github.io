@@ -6,7 +6,7 @@
   <a href="https://github.com/chen-hangyu/Thermal-Gaussian-main" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 18px; font-weight: bold; transition: text-decoration 0.3s ease;">
     <img src="github.png" alt="Code" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;"> Code
   </a>
-  <a href="https://drive.google.com/drive/folders/1xuPwqezNW_LSB5C-H8TQFJ7nLoSS2BOg?usp=drive_link" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 18px; font-weight: bold; transition: text-decoration 0.3s ease;">
+  <a href="[https://drive.google.com/drive/folders/1xuPwqezNW_LSB5C-H8TQFJ7nLoSS2BOg?usp=drive_link](https://drive.google.com/drive/folders/1A6kdIjDe7kw-iKQkzjHNw0wgk_3V7hcp?usp=sharing)" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #000000; font-size: 18px; font-weight: bold; transition: text-decoration 0.3s ease;">
     <img src="google-drive.png" alt="Dataset" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;"> Dataset
   </a>
 </div>
@@ -193,7 +193,7 @@ The following are the four scenes extended by RGBT-Scenes.
 </table>
 
 
-### Unaligned RGB–Thermal Dataset
+### RGBT-Scenes-unaligned Dataset
 We also release a set of Unaligned RGB–Thermal Image Pairs which are provided exclusively for academic research purposes.These unaligned data are intended to facilitate studies on cross-modal alignment, multimodal registration, 3D reconstruction, and other related tasks that benefit from more challenging multimodal scenarios.
 <table>
         <colgroup>
